@@ -1,5 +1,5 @@
 .xref:index.adoc
-* xref:index.adoc []
+* xref:index.adoc[]
 ** {pl}
 *** xref:Platform_FoldersCard.adoc[]
 *** xref:Platform_NavigatorCard.adoc[]
