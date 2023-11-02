@@ -8,6 +8,7 @@
 ====
 {pl}::
 +
+****
 *** xref:Platform_FoldersCard.adoc[]
 *** xref:Platform_NavigatorCard.adoc[]
 *** xref:Platform_UserProfileCard.adoc[]
@@ -19,22 +20,28 @@
 *** xref:Platform_SettingsCard.adoc[]
 *** xref:Platform_MandatoryAccessCard.adoc[]
 *** xref:Platform_ComponentsCard.adoc[]
+****
 
 {ad}::
 +
+****
 *** xref:ApprovalDesigner_CardApprovalResult.adoc[]
 *** xref:ApprovalDesigner_CardApprovalStage.adoc[]
 *** xref:ApprovalDesigner_CardApprovalPath.adoc[]
+****
 
 {am}::
 +
+****
 *** xref:ArchiveManagement_InventoryCard.adoc[]
 *** xref:ArchiveManagement_Settings.adoc[]
 *** xref:ArchiveManagement_ArchiveCase.adoc[]
 *** xref:ArchiveManagement_NomenclatureView.adoc[]
+****
 
 {bo}::
 +
+****
 *** xref:BackOffice_RefLayouts.adoc[]
 *** xref:BackOffice_RefNumerationRules.adoc[]
 *** xref:BackOffice_RefRoleModel.adoc[]
@@ -71,9 +78,11 @@
 *** xref:BackOffice_RefKinds.adoc[]
 *** xref:BackOffice_RefPowers.adoc[]
 *** xref:BackOffice_CardPowerOfAttorney.adoc[]
+****
 
 {to}::
 +
+****
 *** xref:TakeOffice_CardFile.adoc[]
 *** xref:TakeOffice_CardInc.adoc[]
 *** xref:TakeOffice_CardOrd.adoc[]
@@ -94,16 +103,21 @@
 *** xref:TakeOffice_CardUni.adoc[]
 *** xref:TakeOffice_NavExtensions.adoc[]
 *** xref:TakeOffice_NavCommands.adoc[]
+****
 
 Служба {ws}::
 +
+****
 *** xref:WorkerService_MessagesCard.adoc[]
+****
 
 {wf}::
 +
+****
 *** xref:Workflow_FunctionList.adoc[]
 *** xref:Workflow_GateList.adoc[]
 *** xref:Workflow_Monitor.adoc[]
 *** xref:Workflow_Settings.adoc[]
 *** xref:Workflow_Process.adoc[]
+****
 ====
