@@ -1,5 +1,5 @@
 name: schemas
-version: "docsvision5"
+version: "5"
 display_version: "Docsvision 5"
 title: Описание схем стандартных карточек
 asciidoc:
