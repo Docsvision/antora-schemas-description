@@ -13,7 +13,6 @@ asciidoc:
     to-v: '6.1'
     am-v: '5.1'
     ws-v: '6.1'
-    page-size: 'Letter'
 
 nav:
 - modules/ROOT/CardSchema.adoc
