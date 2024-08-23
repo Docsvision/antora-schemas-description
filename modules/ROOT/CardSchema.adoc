@@ -7,3 +7,4 @@
 ** xref:TakeOffice.adoc[]
 ** xref:WorkerService.adoc[]
 ** xref:Workflow.adoc[]
+** xref:M4dRegistry.adoc[]
