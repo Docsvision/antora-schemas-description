@@ -12,6 +12,8 @@ asciidoc:
     to-v: '5.5.2'
     am-v: '5.5.1'
     ws-v: '5.5.2'
+    em-v: '5.5.5'
+    mir-v: '5.5.1'
 
 nav:
 - modules/ROOT/CardSchema.adoc

@@ -8,4 +8,5 @@
 * xref:TakeOffice.adoc[{dv} 5. {to} версии {to-v}.]
 * xref:WorkerService.adoc[{dv} 5. Служба {ws} версии {ws-v}.]
 * xref:Workflow.adoc[{dv} 5. {wf} версии {wf-v}.]
-* xref:M4dRegistry.adoc[{dv} 5. Модуль интеграции с реестром МЧД версии {wf-v}.]
+// * xref:Edi.adoc[{em} версии {em-v}]
+* xref:M4dRegistry.adoc[{dv} 5. Модуль интеграции с реестром МЧД версии {mir-v}.]
