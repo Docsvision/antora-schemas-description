@@ -1,0 +1,12 @@
+= Управление архивом
+
+Идентификатор: `EFB709E2-268D-4B51-90CF-3825CB547294`
+
+Псевдоним: `ArchiveManagement`
+
+Название: _Управление архивом_
+
+* xref:archivemanagement/InventoryCard.adoc[]
+* xref:archivemanagement/Settings.adoc[]
+* xref:archivemanagement/ArchiveCase.adoc[]
+* xref:archivemanagement/NomenclatureView.adoc[]
