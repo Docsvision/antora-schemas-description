@@ -1,0 +1,19 @@
+= Системные карточки
+
+Идентификатор: `26dbf2c0-e72e-4e9e-ab99-816758387ae2`
+
+Псевдоним: `Platform`
+
+Название: _Системные карточки_
+
+* xref:index.adoc/FoldersCard.adoc[]
+* xref:index.adoc/NavigatorCard.adoc[]
+* xref:index.adoc/UserProfileCard.adoc[]
+* xref:index.adoc/VersionedFileCard.adoc[]
+* xref:index.adoc/SavedViewCard.adoc[]
+* xref:index.adoc/SavedSearchCard.adoc[]
+* xref:index.adoc/NumeratorCard.adoc[]
+* xref:index.adoc/FolderTypesCard.adoc[]
+* xref:index.adoc/SettingsCard.adoc[]
+* xref:index.adoc/MandatoryAccessCard.adoc[]
+* xref:index.adoc/ComponentsCard.adoc[]
