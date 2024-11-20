@@ -1,4 +1,0 @@
-** xref:index.adoc[]
-*** xref:CardApprovalResult.adoc[]
-*** xref:CardApprovalPath.adoc[]
-*** xref:CardApprovalStage.adoc[]

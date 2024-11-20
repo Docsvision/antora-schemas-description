@@ -1,0 +1,44 @@
+= Базовые объекты
+
+Идентификатор: `DE9C2809-3207-42EF-BC32-B9AB2D1B5608`
+
+Псевдоним: `BackOffice`
+
+Название: _Базовые объекты_
+
+* xref:index.adoc/RefLayouts.adoc[]
+* xref:index.adoc/RefNumerationRules.adoc[]
+* xref:index.adoc/RefRoleModel.adoc[]
+* xref:index.adoc/RefScripting.adoc[]
+* xref:index.adoc/CardEmployee.adoc[]
+* xref:index.adoc/RefPartners.adoc[]
+* xref:index.adoc/RefLinks.adoc[]
+* xref:index.adoc/CardDocument.adoc[]
+* xref:index.adoc/CardCategoryList.adoc[]
+* xref:index.adoc/CardReferenceList.adoc[]
+* xref:index.adoc/CardSurveyList.adoc[]
+* xref:index.adoc/RefStates.adoc[]
+* xref:index.adoc/CardTaskList.adoc[]
+* xref:index.adoc/RefBaseUniversal.adoc[]
+* xref:index.adoc/CardBaseUniversalItem.adoc[]
+* xref:index.adoc/CardPartnersDepartment.adoc[]
+* xref:index.adoc/CardPartnersEmployee.adoc[]
+* xref:index.adoc/RefNavExtension.adoc[]
+* xref:index.adoc/CardCalendar.adoc[]
+* xref:index.adoc/RefSignatureLabels.adoc[]
+* xref:index.adoc/CardReconcile.adoc[]
+* xref:index.adoc/CardReconcileLog.adoc[]
+* xref:index.adoc/CardReconcilePath.adoc[]
+* xref:index.adoc/CardReconcileStage.adoc[]
+* xref:index.adoc/RefServers.adoc[]
+* xref:index.adoc/CardServer.adoc[]
+* xref:index.adoc/CardFileList.adoc[]
+* xref:index.adoc/RefStaff.adoc[]
+* xref:index.adoc/CardTaskGroup.adoc[]
+* xref:index.adoc/CardTask.adoc[]
+* xref:index.adoc/CardDepartment.adoc[]
+* xref:index.adoc/CardSignatureList.adoc[]
+* xref:index.adoc/RefCategories.adoc[]
+* xref:index.adoc/RefKinds.adoc[]
+* xref:index.adoc/RefPowers.adoc[]
+* xref:index.adoc/CardPowerOfAttorney.adoc[]

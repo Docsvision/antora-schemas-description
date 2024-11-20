@@ -6,4 +6,4 @@
 
 Название: _Служба фоновых операций_
 
-* xref:workerservice/MessagesCard.adoc[]
+* xref:index.adoc/MessagesCard.adoc[]

@@ -1,0 +1,28 @@
+= Делопроизводство
+
+Идентификатор: `C257FEAA-7F8C-48BD-AB05-397507F88985`
+
+Псевдоним: `TakeOffice`
+
+Название: _Делопроизводство_
+
+* xref:index.adoc/CardFile.adoc[]
+* xref:index.adoc/CardInc.adoc[]
+* xref:index.adoc/CardOrd.adoc[]
+* xref:index.adoc/CardOut.adoc[]
+* xref:index.adoc/FileList.adoc[]
+* xref:index.adoc/RefCases.adoc[]
+* xref:index.adoc/RefNumerators.adoc[]
+* xref:index.adoc/RefTypes.adoc[]
+* xref:index.adoc/WorkflowTask.adoc[]
+* xref:index.adoc/AgentSettings.adoc[]
+* xref:index.adoc/CardMessage.adoc[]
+* xref:index.adoc/RefUniversal.adoc[]
+* xref:index.adoc/CardArchive.adoc[]
+* xref:index.adoc/RefBarcodeScan.adoc[]
+* xref:index.adoc/CardApproval.adoc[]
+* xref:index.adoc/CardResolution.adoc[]
+* xref:index.adoc/CardReport.adoc[]
+* xref:index.adoc/CardUni.adoc[]
+* xref:index.adoc/NavExtensions.adoc[]
+* xref:index.adoc/NavCommands.adoc[]
