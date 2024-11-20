@@ -1,3 +1,5 @@
+:page-aliases: ROOT:WorkerService.adoc
+
 = Служба фоновых операций
 
 Идентификатор: `B4E4DB94-0E7C-4117-B187-52895AD5783C`

@@ -1,3 +1,5 @@
+:page-aliases: ROOT:M4dRegistry.adoc
+
 = Интеграция с реестром МЧД
 
 Идентификатор: `0BAB94FE-96A3-41D2-9F14-381D1CD226E5`
