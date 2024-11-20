@@ -6,6 +6,6 @@
 
 Название: _Конструктор согласований_
 
-* xref:approvaldesigner/CardApprovalResult.adoc[]
-* xref:approvaldesigner/CardApprovalPath.adoc[]
-* xref:approvaldesigner/CardApprovalStage.adoc[]
+* xref:CardApprovalResult.adoc[]
+* xref:CardApprovalPath.adoc[]
+* xref:CardApprovalStage.adoc[]
