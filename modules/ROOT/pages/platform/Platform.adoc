@@ -1,4 +1,4 @@
-:page-aliases: ROOT:Platform.adoc
+:page-aliases: Platform.adoc
 
 = Системные карточки
 

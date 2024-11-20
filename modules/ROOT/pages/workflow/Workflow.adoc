@@ -1,4 +1,4 @@
-:page-aliases: ROOT:Workflow.adoc
+:page-aliases: Workflow.adoc
 
 = Управление процессами
 

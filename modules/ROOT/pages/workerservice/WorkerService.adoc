@@ -1,4 +1,4 @@
-:page-aliases: ROOT:WorkerService.adoc
+:page-aliases: WorkerService.adoc
 
 = Служба фоновых операций
 

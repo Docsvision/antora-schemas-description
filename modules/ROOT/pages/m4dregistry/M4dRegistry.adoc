@@ -1,4 +1,4 @@
-:page-aliases: ROOT:M4dRegistry.adoc
+:page-aliases: M4dRegistry.adoc
 
 = Интеграция с реестром МЧД
 

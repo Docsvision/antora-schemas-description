@@ -1,4 +1,4 @@
-:page-aliases: ROOT:TakeOffice.adoc
+:page-aliases: TakeOffice.adoc
 
 = Делопроизводство
 

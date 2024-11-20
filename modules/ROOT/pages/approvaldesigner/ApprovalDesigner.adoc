@@ -1,4 +1,4 @@
-:page-aliases: ROOT:ApprovalDesigner.adoc
+:page-aliases: ApprovalDesigner.adoc
 
 = Конструктор согласований
 
