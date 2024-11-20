@@ -8,4 +8,4 @@
 
 Название: _Интеграция с реестром МЧД_
 
-* xref:m4dregistry/LogTransferCard.adoc[]
+* xref:LogTransferCard.adoc[]

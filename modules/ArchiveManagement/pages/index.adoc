@@ -6,7 +6,7 @@
 
 Название: _Управление архивом_
 
-* xref:archivemanagement/InventoryCard.adoc[]
-* xref:archivemanagement/Settings.adoc[]
-* xref:archivemanagement/ArchiveCase.adoc[]
-* xref:archivemanagement/NomenclatureView.adoc[]
+* xref:InventoryCard.adoc[]
+* xref:Settings.adoc[]
+* xref:ArchiveCase.adoc[]
+* xref:NomenclatureView.adoc[]

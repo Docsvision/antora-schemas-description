@@ -6,8 +6,8 @@
 
 Название: _Управление процессами_
 
-* xref:index.adoc/FunctionList.adoc[]
-* xref:index.adoc/GateList.adoc[]
-* xref:index.adoc/Monitor.adoc[]
-* xref:index.adoc/Settings.adoc[]
-* xref:index.adoc/Process.adoc[]
+* xref:FunctionList.adoc[]
+* xref:GateList.adoc[]
+* xref:Monitor.adoc[]
+* xref:Settings.adoc[]
+* xref:Process.adoc[]
