@@ -1,5 +1,3 @@
-:page-aliases: TakeOffice.adoc
-
 = Делопроизводство
 
 Идентификатор: `C257FEAA-7F8C-48BD-AB05-397507F88985`

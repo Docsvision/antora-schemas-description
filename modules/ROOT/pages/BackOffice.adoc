@@ -1,5 +1,3 @@
-// :page-aliases: BackOffice.adoc
-
 = Базовые объекты
 
 Идентификатор: `DE9C2809-3207-42EF-BC32-B9AB2D1B5608`
