@@ -87,5 +87,5 @@
 *** xref:workflow/Monitor.adoc[]
 *** xref:workflow/Settings.adoc[]
 *** xref:workflow/Process.adoc[]
-** xref:m4dregistry/M4dRegistry.adoc[]
+** xref:m4dregistry/index.adoc[]
 *** xref:m4dregistry/LogTransferCard.adoc[]

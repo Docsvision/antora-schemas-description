@@ -1,4 +1,4 @@
-:page-aliases: ArchiveManagement.adoc
+:page-aliases: ../ArchiveManagement.adoc
 
 = Управление архивом
 

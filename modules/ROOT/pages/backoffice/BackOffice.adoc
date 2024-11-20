@@ -1,4 +1,4 @@
-:page-aliases: BackOffice.adoc
+// :page-aliases: BackOffice.adoc
 
 = Базовые объекты
 

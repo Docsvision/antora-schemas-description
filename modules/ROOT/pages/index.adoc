@@ -9,4 +9,4 @@
 * xref:workerservice/WorkerService.adoc[{dv} 5. Служба {ws} версии {ws-v}.]
 * xref:workflow/Workflow.adoc[{dv} 5. {wf} версии {wf-v}.]
 // * xref:Edi.adoc[{em} версии {em-v}]
-* xref:m4dregistry/M4dRegistry.adoc[{dv} 5. Модуль интеграции с реестром МЧД версии {mir-v}.]
+* xref:m4dregistry/index.adoc[{dv} 5. Модуль интеграции с реестром МЧД версии {mir-v}.]
