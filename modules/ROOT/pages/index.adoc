@@ -1,12 +1,12 @@
 = Описание схем стандартных карточек
 
 .В разделе приведено описание схем метаданных карточек следующих модулей {dv}:
-* xref:approvaldesigner/ApprovalDesigner.adoc[{dv} 5. {ad} версии {ad-v}.]
-* xref:archivemanagement/ArchiveManagement.adoc[{dv} 5. {am} версии {am-v}.]
-* xref:backoffice/BackOffice.adoc[{dv} 5. {bo} версии {bo-v}.]
-* xref:platform/Platform.adoc[{dv} 5. {pl} версии {pl-v}.]
-* xref:takeoffice/TakeOffice.adoc[{dv} 5. {to} версии {to-v}.]
-* xref:workerservice/WorkerService.adoc[{dv} 5. Служба {ws} версии {ws-v}.]
-* xref:workflow/Workflow.adoc[{dv} 5. {wf} версии {wf-v}.]
+* xref:ApprovalDesigner.adoc[{dv} 5. {ad} версии {ad-v}.]
+* xref:ArchiveManagement.adoc[{dv} 5. {am} версии {am-v}.]
+* xref:BackOffice.adoc[{dv} 5. {bo} версии {bo-v}.]
+* xref:Platform.adoc[{dv} 5. {pl} версии {pl-v}.]
+* xref:TakeOffice.adoc[{dv} 5. {to} версии {to-v}.]
+* xref:WorkerService.adoc[{dv} 5. Служба {ws} версии {ws-v}.]
+* xref:Workflow.adoc[{dv} 5. {wf} версии {wf-v}.]
 // * xref:Edi.adoc[{em} версии {em-v}]
 * xref:m4dregistry/index.adoc[{dv} 5. Модуль интеграции с реестром МЧД версии {mir-v}.]
