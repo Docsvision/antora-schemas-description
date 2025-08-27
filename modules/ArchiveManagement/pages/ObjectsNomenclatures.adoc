@@ -1,12 +1,10 @@
-= Архивное дело
-
-WARNING: Карточка упразднена в версии 6.2 и выше.
+= Объекты номенклатуры
 
 Идентификатор: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
 
-Псевдоним: `ArchiveCase`
+Псевдоним: `ObjectsNomenclatures`
 
-Название: _Архивное дело_
+Название: _Объекты номенклатуры_
 
 == Секции карточки
 
@@ -184,14 +182,6 @@ a|`string`
 a|512
 a|
 
-a|`State`
-a|_Состояние_
-a|`refid`
-a|
-a|* Идентификатор типа: `443F55F0-C8AB-4DD3-BCBD-5328C7C9D385`
-* Идентификатор секции: `521B4477-DD10-4F57-A453-09C70ADB7799`
-
-
 a|`Kind`
 a|_Вид_
 a|`refid`
@@ -204,6 +194,300 @@ a|`CreatedByTrigger`
 a|_CreatedByTrigger_
 a|`bool`
 a|
+a|
+
+a|`Type`
+a|_Тип дела_
+a|`enum`
+a|
+a|.Значения
+* Электронное = 0
+* Бумажное = 1
+* Смешанное = 2
+
+
+a|`Unit`
+a|_Подразделение_
+a|`refid`
+a|
+a|* Идентификатор типа: `6710B92A-E148-4363-8A6F-1AA0EB18936C`
+* Идентификатор секции: `7473F07F-11ED-4762-9F1E-7FF10808DDD1`
+
+
+a|`Box`
+a|_Короб_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
+* Идентификатор секции: `3486E1F4-AACC-4C68-9093-FEA1E14A6549`
+
+
+a|`Responsible`
+a|_Ответственный за принятие в архив_
+a|`refid`
+a|
+a|* Идентификатор типа: `6710B92A-E148-4363-8A6F-1AA0EB18936C`
+* Идентификатор секции: `DBC8AE9D-C1D2-4D5E-978B-339D22B32482`
+
+
+a|`AutoConversation`
+a|_Автоматическая конвертация в формат долгосрочного хранения_
+a|`bool`
+a|
+a|
+
+a|`StoragePlace`
+a|_Место хранения_
+a|`refid`
+a|
+a|* Идентификатор типа: `4538149D-1FC7-4D41-A104-890342C6B4F8`
+* Идентификатор секции: `1B1A44FB-1FB1-4876-83AA-95AD38907E24`
+
+
+a|`DisableVolumeGeneration`
+a|_Отключить формирование томов_
+a|`bool`
+a|
+a|
+
+a|`SheetsCount`
+a|_Кол-во листов в деле_
+a|`int`
+a|
+a|
+
+a|`Notes`
+a|_Примечания_
+a|`string`
+a|1024
+a|
+
+a|`InventoryNumber`
+a|_Опись №_
+a|`unistring`
+a|
+a|
+
+a|`Fund`
+a|_Фонд_
+a|`string`
+a|512
+a|
+
+a|`EPKProtocolNumber`
+a|_Протокол ЭПК №_
+a|`unistring`
+a|
+a|
+
+a|`ActualAnnihilationDate`
+a|_Фактическая дата уничтожения_
+a|`datetime`
+a|
+a|
+
+a|`AnnihilationRequest`
+a|_Заявка на уничтожение_
+a|`refcardid`
+a|
+a|
+
+a|`StorageTimes`
+a|_Сроки хранения_
+a|`refid`
+a|
+a|* Идентификатор типа: `4538149D-1FC7-4D41-A104-890342C6B4F8`
+* Идентификатор секции: `1B1A44FB-1FB1-4876-83AA-95AD38907E24`
+
+
+a|`OperativeArchiveRetentionPeriod`
+a|_Срок хранения в оперативном архиве_
+a|`datetime`
+a|
+a|
+
+a|`State`
+a|_Состояние_
+a|`refid`
+a|
+a|* Идентификатор типа: `443F55F0-C8AB-4DD3-BCBD-5328C7C9D385`
+* Идентификатор секции: `521B4477-DD10-4F57-A453-09C70ADB7799`
+
+
+a|`Issued`
+a|_Выдан_
+a|`bool`
+a|
+a|
+
+a|`Missing`
+a|_Утерян_
+a|`bool`
+a|
+a|
+
+a|`SelectedForDesctruction`
+a|_Выделен к уничтожению_
+a|`bool`
+a|
+a|
+
+a|`Exterminated`
+a|_Уничтожен_
+a|`bool`
+a|
+a|
+
+a|`CaseID`
+a|_Дело_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
+
+
+a|`ParentPartition`
+a|_Ссылка на родительский раздел_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
+
+
+a|`Name`
+a|_Наименование_
+a|`unistring`
+a|1024
+a|
+
+a|`UnitIndex`
+a|_Индекс подразделения_
+a|`unistring`
+a|
+a|
+
+a|`Primary`
+a|_Первичный_
+a|`bool`
+a|
+a|
+
+a|`IndexNumber`
+a|_Индекс (номер)_
+a|`refid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
+* Идентификатор секции: `D2D10BE9-0B5A-478D-A079-7CFE28B5A711`
+
+
+a|`CasesNumber`
+a|_Количество дел_
+a|`int`
+a|
+a|
+
+a|`RefundRequest`
+a|_Заявка на возврат_
+a|`refcardid`
+a|
+a|
+
+a|`StorageDateCasesStart`
+a|_Дата дел хранения с_
+a|`datetime`
+a|
+a|
+
+a|`StorageDateCasesEnd`
+a|_Дата дел хранения по_
+a|`datetime`
+a|
+a|
+
+a|`Number`
+a|_Номер_
+a|`int`
+a|
+a|
+
+a|`ParentCase`
+a|_Ссылка на родительское дело_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
+
+
+a|`InitialYearNomenclature`
+a|_Номенклатура в которой был создан раздел_
+a|`refid`
+a|
+a|* Идентификатор типа: `9EEE908F-BFCC-48C5-BA52-F5EACC083DA7`
+* Идентификатор секции: `EB2B5EF5-41A4-4A6D-8ADC-DB654C64C7CE`
+
+
+a|`SheetsCountInApplication`
+a|_Кол-во листов в приложении_
+a|`int`
+a|
+a|
+
+a|`ZipFileID`
+a|_Файл ZIP-архива_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `6E39AD2B-E930-4D20-AAFA-C2ECF812C2B3`
+* Идентификатор секции: `2FDE03C2-FF87-4E42-A8C2-7CED181977FB`
+Поля ссылки: 
+FileName > FileCurrentVersion
+
+a|`Author`
+a|_Автор_
+a|`refid`
+a|
+a|* Идентификатор типа: `6710B92A-E148-4363-8A6F-1AA0EB18936C`
+* Идентификатор секции: `DBC8AE9D-C1D2-4D5E-978B-339D22B32482`
+
+
+a|`Electronic`
+a|_Электронный_
+a|`bool`
+a|
+a|
+
+a|`ParentFund`
+a|_Родительский фонд_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
+
+
+a|`ParentInventory`
+a|_Родительская опись_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
+
+
+a|`StorageRoom`
+a|_Помещение хранения_
+a|`unistring`
+a|1024
+a|
+
+a|`StorageCloset`
+a|_Шкаф хранения_
+a|`unistring`
+a|1024
+a|
+
+a|`StorageShelf`
+a|_Полка хранения_
+a|`unistring`
+a|1024
+a|
+
+a|`DisplayString`
+a|_Строка отображения_
+a|`unistring`
+a|1024
 a|
 
 |===
@@ -412,7 +696,7 @@ a|* Идентификатор типа: `B995501A-FABF-4B7F-858B-C1A03E650658`
 |Псевдоним |Название |Тип поля |Размер |Дополнительная информация 
 
 a|`UnitNomenclature`
-a|_UnitNomenclature_
+a|_Объект справочника номенклатуры_
 a|`refid`
 a|
 a|* Идентификатор типа: `9EEE908F-BFCC-48C5-BA52-F5EACC083DA7`
@@ -421,14 +705,14 @@ a|* Идентификатор типа: `9EEE908F-BFCC-48C5-BA52-F5EACC083DA7`
 
 |===
 
-=== History
+=== История
 
 Идентификатор: `B92E18D5-A167-4331-A3C9-9A1E0BC6B0B1`
 Псевдоним: `History`
 Тип секции: `coll`
-Название: _History_
+Название: _История_
 
-.Поля секции History
+.Поля секции История
 |===
 |Псевдоним |Название |Тип поля |Размер |Дополнительная информация 
 
@@ -479,6 +763,120 @@ a|`refid`
 a|
 a|* Идентификатор типа: `6710B92A-E148-4363-8A6F-1AA0EB18936C`
 * Идентификатор секции: `DBC8AE9D-C1D2-4D5E-978B-339D22B32482`
+
+
+|===
+
+=== Журнал передач
+
+Идентификатор: `F2E63035-CCAE-4BFD-9195-86A7976AA940`
+Псевдоним: `TransferLog`
+Тип секции: `coll`
+Название: _Журнал передач_
+
+.Поля секции Журнал передач
+|===
+|Псевдоним |Название |Тип поля |Размер |Дополнительная информация 
+
+a|`Lender`
+a|_Кому выдано_
+a|`refid`
+a|
+a|* Идентификатор типа: `6710B92A-E148-4363-8A6F-1AA0EB18936C`
+* Идентификатор секции: `DBC8AE9D-C1D2-4D5E-978B-339D22B32482`
+
+
+a|`ReturnDatePlan`
+a|_Дата возврата (план)_
+a|`datetime`
+a|
+a|
+
+a|`ReturnDateFact`
+a|_Дата возврата (факт)_
+a|`datetime`
+a|
+a|
+
+a|`Acceptance`
+a|_Принял_
+a|`refid`
+a|
+a|* Идентификатор типа: `6710B92A-E148-4363-8A6F-1AA0EB18936C`
+* Идентификатор секции: `DBC8AE9D-C1D2-4D5E-978B-339D22B32482`
+
+
+a|`Comments`
+a|_Комментарии_
+a|`string`
+a|1024
+a|
+
+a|`Mortgagee`
+a|_Выдал_
+a|`refid`
+a|
+a|* Идентификатор типа: `6710B92A-E148-4363-8A6F-1AA0EB18936C`
+* Идентификатор секции: `DBC8AE9D-C1D2-4D5E-978B-339D22B32482`
+
+
+a|`IssuedDate`
+a|_Дата выдачи_
+a|`datetime`
+a|
+a|
+
+a|`IssuedStorageUnit`
+a|_Выдано ед. хранения_
+a|`refcardid`
+a|
+a|
+
+|===
+
+=== Номера
+
+Идентификатор: `D2D10BE9-0B5A-478D-A079-7CFE28B5A711`
+Псевдоним: `Numbers`
+Тип секции: `coll`
+Название: _Номера_
+
+.Поля секции Номера
+|===
+|Псевдоним |Название |Тип поля |Размер |Дополнительная информация 
+
+a|`NumericPart`
+a|_Числовая часть_
+a|`refid`
+a|
+a|* Идентификатор типа: `959FF5E2-7E47-4F6F-9CF6-E1E477CD01CF`
+* Идентификатор секции: `D47F2C38-6553-4864-BAFF-0BC4D3A85290`
+
+
+a|`Number`
+a|_Номер_
+a|`string`
+a|
+a|
+
+|===
+
+=== Разделы дела
+
+Идентификатор: `8B3BFAD8-3A9E-4A14-B377-9590FB5A6DA0`
+Псевдоним: `PartitionsCase`
+Тип секции: `coll`
+Название: _Разделы дела_
+
+.Поля секции Разделы дела
+|===
+|Псевдоним |Название |Тип поля |Размер |Дополнительная информация 
+
+a|`Partition`
+a|_Раздел_
+a|`refcardid`
+a|
+a|* Идентификатор типа: `CD81A0E2-187E-417C-A21B-AEFDDE17C362`
 
 
 |===
