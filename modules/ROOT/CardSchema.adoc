@@ -48,6 +48,7 @@
 *** xref:BackOffice:RefKinds.adoc[]
 *** xref:BackOffice:RefPowers.adoc[]
 *** xref:BackOffice:CardPowerOfAttorney.adoc[]
+*** xref:BackOffice:CardNotificationLog.adoc[]
 ** xref:Platform:index.adoc[]
 *** xref:Platform:FoldersCard.adoc[]
 *** xref:Platform:NavigatorCard.adoc[]
