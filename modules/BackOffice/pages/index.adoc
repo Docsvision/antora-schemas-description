@@ -42,3 +42,4 @@
 * xref:RefKinds.adoc[]
 * xref:RefPowers.adoc[]
 * xref:CardPowerOfAttorney.adoc[]
+* xref:CardNotificationLog.adoc[]

@@ -47,6 +47,12 @@ a|`string`
 a|12
 a|
 
+a|`RepresentativeINN`
+a|_ИНН представителя_
+a|`string`
+a|12
+a|
+
 a|`PowerOfAttorneyStartDate`
 a|_Дата совершения доверенности_
 a|`datetime`
